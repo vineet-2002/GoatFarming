@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531013151074",
+    "project_id": "goatfarming-d5f81",
+    "storage_bucket": "goatfarming-d5f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531013151074:android:59b8fee44aa11c91cf243b",
+        "android_client_info": {
+          "package_name": "com.example.goatfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531013151074-3k68q3mtnqi8svf2bfb1lebvu94bhsi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJlZbAK1adPvm9Ku_VXnuVOl749ZgM5Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531013151074-3k68q3mtnqi8svf2bfb1lebvu94bhsi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
